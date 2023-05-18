@@ -1,6 +1,6 @@
 #Exercie 7
-
-string = 'je suis un haiti'
+# we replace all characteres which is a vowel by a an asterix in that string
+string = 'je suis un haitien'
 str_spl = string.split()
 vowels =['a', 'e', 'i', 'o', 'u','y']
 lis =[]
