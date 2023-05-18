@@ -1,6 +1,12 @@
 #Exercice 5
+#You are given a string which has few numbers separated by a space. Try to generate the result below:
 
-# it is given to me to add each number in that string by its self then to computer the product of list elements 
+#for example : 
+
+#"5 45 123 12" wil give : (5) * (4+5) * (1+2+3) * (1+2) => 5*9*6*3
+#total: 810
+
+# it is given to me to add each number in that string by its self then to compute the product of list elements 
 
 string = "5 45 123 12"
 str_spl = string.split()
